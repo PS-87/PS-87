@@ -28,6 +28,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=00E5FF" width="60%"/>
 
-<sub>NO MAP. NO QUEST MARKER. JUST CURIOSITY.</sub>
+<sub>NO MAP. NO QUEST MARKER. JUST VENTURING.</sub>
 
 </div>
