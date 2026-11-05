@@ -1,68 +1,33 @@
 
 <div align="center">
 
-# `PS-87`
+<img src="https://capsule-render.vercel.app/api?type=venom&height=140&color=0:050505,50:111827,100:00E5FF&text=PS-87&fontColor=FFFFFF&fontSize=60&fontAlignY=50&animation=fadeIn&stroke=00E5FF&strokeWidth=1" width="100%"/>
 
-### — An unfinished anomaly in a world of patterns —
+### `UNKNOWN ENTITY // PLAYER 087`
 
-<br>
-
-*"Some things are better understood in silence."*
+[ `STATUS: ONLINE` ] · [ `ACCESS: RESTRICTED` ]
 
 <br>
 
-[ SYSTEM STATUS: ONLINE ]  
-[ IDENTITY: CLASSIFIED ]  
-[ PURPOSE: UNKNOWN ]
-
-<br>
-
----
-
-### `01 // THE ARCHIVE`
-
-Not everything I build is meant to be understood.  
-Not everything I understand is meant to be shared.
-
-I observe. I experiment. I create.
-
-Somewhere between logic and imagination,  
-something unusual is taking shape.
-
----
-
-### `02 // CURRENTLY DECODING`
+> Somewhere between logic and the unknown.
 
 ```text
-> exploring the unknown
-> engineering ideas into reality
-> learning what cannot be taught
-> searching for the next anomaly
+╭──────────────────────────────╮
+│  SYSTEM   ▸ ACTIVE           │
+│  IDENTITY ▸ UNDEFINED        │
+│  QUEST    ▸ IN PROGRESS      │
+│  ACCESS   ▸ LEVEL 087        │
+╰──────────────────────────────╯
 ```
 
----
+**I build things that speak for themselves.**
 
-### `03 // THE TOOLBOX`
-
-`C` · `C++` · `Python` · `JavaScript`  
-`Web Development` · `Machine Learning` · `Systems`
-
----
-
-### `04 // TRANSMISSION LOG`
-
-[ You found the profile. ]
-
-[ You found the projects. ]
-
-[ You haven't found the whole story. ]
+*The rest is left for you to discover.*
 
 <br>
 
-*"The most interesting part is what remains hidden."*
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=00E5FF" width="60%"/>
 
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:202020&height=100&section=footer" width="100%"/>
+<sub>NO MAP. NO QUEST MARKER. JUST CURIOSITY.</sub>
 
 </div>
